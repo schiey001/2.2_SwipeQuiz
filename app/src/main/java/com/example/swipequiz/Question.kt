@@ -6,17 +6,49 @@ data class Question (
 ) {
     companion object {
         val QUESTIONS = arrayOf(
-            "Test 1",
-            "Test 2",
-            "Test 3",
-            "Test 4"
+            "Grass is green",
+            "Milk is white",
+            "Cat says miauw",
+            "Dog says miauw",
+            "Cow says moooh",
+            "Chicken says tok tok",
+            "Pig says tok tok",
+            "Water is purple",
+            "Snow is red",
+            "Snow is white",
+            "Grass is green",
+            "Milk is white",
+            "Cat says miauw",
+            "Dog says miauw",
+            "Cow says moooh",
+            "Chicken says tok tok",
+            "Pig says tok tok",
+            "Water is purple",
+            "Snow is red",
+            "Snow is white"
         )
 
         val ANSWERS = arrayOf(
             "True",
             "True",
             "True",
-            "False"
+            "False",
+            "True",
+            "True",
+            "False",
+            "False",
+            "False",
+            "True",
+            "True",
+            "True",
+            "True",
+            "False",
+            "True",
+            "True",
+            "False",
+            "False",
+            "False",
+            "True"
         )
     }
 }
